@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jusecace&label=Profile%20views&color=0e75b6&style=flat" alt="jusecace" /> </p>
 
-- 🌱 I’m currently learning **SQL, Python & Tableau**
+- 🌱 Experienced in crafting code in MySQL, Python, and R, adept at harnessing data for insights, complemented by proficient Tableau skills for dynamic visualization and analysis. **SQL, Python & Tableau**
 
 - 📫 How to reach me **sebastian.cardenas.cespedes@gmail.com**
 
